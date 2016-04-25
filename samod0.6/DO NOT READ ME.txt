@@ -1,0 +1,8 @@
+place everything from "GTA San Andreas" into your GTA installation directory, backup files which exist, because you need to overwrite them with this files.
+
+plugin_ShowMessageBox is a example plugin for Pawn4Singleplayer
+
+source - this is the source.
+
+
+Please read \GTA San Andreas\readme.txt or not.. whatever.
